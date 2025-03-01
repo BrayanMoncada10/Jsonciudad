@@ -1,27 +1,47 @@
 [
   {
-    "location": "México",
-    "name": "Ciudad de México",
-    "Image": "https://traveler.marriott.com/es/wp-content/uploads/sites/2/2018/05/SI_MEXIS_Angel_Independencia_1920x1080.jpg"
+    "Name": "Ciudad de México",
+    "Location": "México",
+    "Details": "La Ciudad de México es la capital y la ciudad más grande de México. Es un importante centro cultural y financiero, y alberga numerosos sitios históricos y atracciones turísticas.",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mexico_City_at_Night_%28panoramic_view%29.jpg/1200px-Mexico_City_at_Night_%28panoramic_view%29.jpg",
+    "Population": 9209944,
+    "Latitude": 19.4326,
+    "Longitude": -99.1332
   },
   {
-    "location": "Francia",
-    "name": "París",
-    "Image": "https://www.berlinsbi.com/uploads/sites/2/2023/07/paris-france-student-international-experience.jpg?w=1000&h=666&crop=1"
-  },
-    {
-    "location": "Japón",
-    "name": "Tokio",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg/1200px-Skyscrapers_of_Shinjuku_2009_January.jpg"
+    "Name": "París",
+    "Location": "Francia",
+    "Details": "París es la capital de Francia y una de las ciudades más visitadas del mundo. Es conocida por su belleza, su cultura y su historia.",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_l%27esplanade_du_Trocad%C3%A9ro%2C_Paris_VII.jpg/1200px-La_Tour_Eiffel_vue_de_l%27esplanade_du_Trocad%C3%A9ro%2C_Paris_VII.jpg",
+    "Population": 2140526,
+    "Latitude": 48.8566,
+    "Longitude": 2.3522
   },
   {
-    "location": "Italia",
-    "name": "Roma",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg/1200px-Colosseum_in_Rome%2C_Italy_-_April_2007.jpg"
+    "Name": "Tokio",
+    "Location": "Japón",
+    "Details": "Tokio es la capital de Japón y una de las ciudades más pobladas del mundo. Es un importante centro económico y cultural, y alberga numerosos sitios históricos y atracciones turísticas.",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg/1200px-Skyscrapers_of_Shinjuku_2009_January.jpg",
+    "Population": 13929286,
+    "Latitude": 35.6895,
+    "Longitude": 139.6917
   },
-    {
-    "location": "Argentina",
-    "name": "Buenos Aires",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Buenos_Aires_Obelisco_at_night.jpg/1200px-Buenos_Aires_Obelisco_at_night.jpg"
+  {
+    "Name": "Roma",
+    "Location": "Italia",
+    "Details": "Roma es la capital de Italia y una de las ciudades más históricas del mundo. Es conocida por sus monumentos antiguos, su arte y su cultura.",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg/1200px-Colosseum_in_Rome%2C_Italy_-_April_2007.jpg",
+    "Population": 2872800,
+    "Latitude": 41.9028,
+    "Longitude": 12.4964
+  },
+  {
+    "Name": "Buenos Aires",
+    "Location": "Argentina",
+    "Details": "Buenos Aires es la capital de Argentina y una de las ciudades más grandes de América del Sur. Es conocida por su cultura, su arquitectura y su vida nocturna.",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Buenos_Aires_Obelisco_at_night.jpg/1200px-Buenos_Aires_Obelisco_at_night.jpg",
+    "Population": 2890151,
+    "Latitude": -34.6037,
+    "Longitude": -58.3816
   }
 ]
