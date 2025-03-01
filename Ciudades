@@ -3,7 +3,7 @@
     "Name": "Ciudad de México",
     "Location": "México",
     "Details": "La Ciudad de México es la capital y la ciudad más grande de México. Es un importante centro cultural y financiero, y alberga numerosos sitios históricos y atracciones turísticas.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mexico_City_at_Night_%28panoramic_view%29.jpg/1200px-Mexico_City_at_Night_%28panoramic_view%29.jpg",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
     "Population": 9209944,
     "Latitude": 19.4326,
     "Longitude": -99.1332
