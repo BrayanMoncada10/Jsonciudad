@@ -2,22 +2,22 @@
   {
     "location": "México",
     "name": "Ciudad de México",
-    "url": "https://traveler.marriott.com/es/wp-content/uploads/sites/2/2018/05/SI_MEXIS_Angel_Independencia_1920x1080.jpg"
+    "Image": "https://traveler.marriott.com/es/wp-content/uploads/sites/2/2018/05/SI_MEXIS_Angel_Independencia_1920x1080.jpg"
   },
   {
     "location": "Francia",
     "name": "París",
-    "url": "https://www.berlinsbi.com/uploads/sites/2/2023/07/paris-france-student-international-experience.jpg?w=1000&h=666&crop=1"
+    "Image": "https://www.berlinsbi.com/uploads/sites/2/2023/07/paris-france-student-international-experience.jpg?w=1000&h=666&crop=1"
   },
     {
     "location": "Japón",
     "name": "Tokio",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg/1200px-Skyscrapers_of_Shinjuku_2009_January.jpg"
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg/1200px-Skyscrapers_of_Shinjuku_2009_January.jpg"
   },
   {
     "location": "Italia",
     "name": "Roma",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg/1200px-Colosseum_in_Rome%2C_Italy_-_April_2007.jpg"
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg/1200px-Colosseum_in_Rome%2C_Italy_-_April_2007.jpg"
   },
     {
     "location": "Argentina",
